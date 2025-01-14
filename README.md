@@ -1,10 +1,10 @@
 # Data Engineering 2021 Tokyo Olympics Project
  
-# Overview
+## Overview
 
 This project aims to analyze Olympic data using various tools and technologies, including Azure Data Factory, Data Lake Gen 2, Synapse Analytics, and Azure Databricks.
 
-# Project Goals
+## Project Goals
 
 Data Ingestion — Build a mechanism to ingest data from different sources
 ETL System — We are getting data in raw format, transforming this data into the proper format
