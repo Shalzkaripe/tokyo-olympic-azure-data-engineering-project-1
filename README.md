@@ -6,11 +6,11 @@ This project aims to analyze Olympic data using various tools and technologies, 
 
 ## Project Goals
 
-Data Ingestion — Build a mechanism is to ingest data from Github.
-ETL System — We are getting data in raw format, transforming this data into the proper format.
-Data lake — We will be getting data from multiple sources so we need centralized repo to store them.
-Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use Azure.
-Reporting — Build a dashboard to get answers to the questions.
+- Data Ingestion: Build a mechanism is to ingest data from Github.
+- ETL System: We are getting data in raw format, transforming this data into the proper format.
+- Data lake: We will be getting data from multiple sources so we need centralized repo to store them.
+- Cloud: We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use Azure.
+- Reporting: Build a dashboard to get answers to the questions.
 
 ## Services we will be using
 
