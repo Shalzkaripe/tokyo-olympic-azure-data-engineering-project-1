@@ -14,12 +14,12 @@ This project aims to analyze Olympic data using various tools and technologies, 
 
 ## Services we will be using
 
-Aure: Azure is a cloud computing platform offering services for building, deploying, and managing applications globally.
-Azure Data Factory: A cloud-based data integration service that orchestrates and automates data movement and transformation.
-Azure Data Lake Gen 2: A scalable, secure data storage service optimized for big data analytics.
-Azure Databricks: An analytics platform for big data and machine learning, built on Apache Spark.
-Azure Synapse Analytics: A unified analytics platform for big data and data warehousing.
-Power BI: A business analytics tool for interactive visualizations and data-driven insights.
+- Aure: Azure is a cloud computing platform offering services for building, deploying, and managing applications globally.
+- Azure Data Factory: A cloud-based data integration service that orchestrates and automates data movement and transformation.
+- Azure Data Lake Gen 2: A scalable, secure data storage service optimized for big data analytics.
+- Azure Databricks: An analytics platform for big data and machine learning, built on Apache Spark.
+- Azure Synapse Analytics: A unified analytics platform for big data and data warehousing.
+- Power BI: A business analytics tool for interactive visualizations and data-driven insights.
 
 ## Dataset Used
 
